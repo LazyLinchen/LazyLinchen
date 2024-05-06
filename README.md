@@ -6,4 +6,3 @@
 - 💬 Ask me about Golang, RESTful APIs, and anything related to backend development.
 - 📫 How to reach me: You can send me an email at lorrylinchen@gmail.com or connect with me on [Twitter](https://twitter.com/sharan89511975).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once participated in a hackathon where my team built a fully functional IoT device prototype in under 48 hours!
